@@ -32,4 +32,4 @@ Using Git platforms (like GitHub) for teamwork and code review.
 
 this is a mock notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https:://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%201%3A%20Git%20Version%20Control%20System/mock_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nextairehorizon/E-Learning-Platform/blob/main/Data%20Science/Module%201%3A%20Git%20Version%20Control%20System/mock_notebook.ipynb)
